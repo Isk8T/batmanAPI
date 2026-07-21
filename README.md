@@ -86,6 +86,10 @@ The app sends a request to a fictional API and displays results in the terminal.
 - Alfred assistant  
 - Bat-Signal tracker  
 
+## Added Files
+requirements.txt
+batmanAPI.py
+docs/release_notes.md
 
 ## Contributing
 
